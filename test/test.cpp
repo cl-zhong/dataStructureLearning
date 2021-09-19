@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+    //git test
     LNode *A = (LNode *)malloc(sizeof(LNode));
     LNode *B = (LNode *)malloc(sizeof(LNode));
     LNode *C = (LNode *)malloc(sizeof(LNode));
