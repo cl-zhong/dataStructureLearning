@@ -10,7 +10,7 @@ int main()
     LNode *C = (LNode *)malloc(sizeof(LNode));
     A->data = 1; B->data = 2; C->data = 3;
     A->next = B; B->next = C;
-
+    //this is a test
     cout<<A->next->next->data<<endl;
     return 0;
 }
